@@ -1,0 +1,15 @@
+html,body
+{
+    height: 100%;
+    color:black;
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}/*
+* Created with https://www.css-gradient.com
+* Gradient link: https://www.css-gradient.com/?c1=25d627&c2=1b9edf&gt=l&gd=dtt
+*/
+background: rgba(37, 214, 39, 1.0);
+background: linear-gradient(180deg, rgba(37, 214, 39, 1.0), rgba(27, 158, 223, 1.0));
+
+
